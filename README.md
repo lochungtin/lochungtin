@@ -2,7 +2,7 @@
 
 ### Languages
 
-|                                                                                                                                     |                         |                       |
+| Language                                                                                                                            | Proficency              | Level                 |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | --------------------- |
 | [![](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=JavaScript&logoColor=white)](https://www.javascript.com/)         | <p>Proficent<p>         | <p>█████████████░░<p> |
 | [![](https://img.shields.io/badge/Language-Java-007396?logo=Java&logoColor=white)](https://www.java.com/en/)                        | <p>Proficent<p>         | <p>████████████░░░<p> |

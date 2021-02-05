@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/lochungtin?label=Follow&style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lochungtin.lochungtin)
 
-Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year computer science student studying at <a href="https://www.kcl.ac.uk/">King's College Longon</a>
+Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year computer science student studying at <a href="https://www.kcl.ac.uk/">King's College London</a>
 
 <a href="https://www.instagram.com/lochungtin/">
     <img width="40" src="icons/instagram.png"/>

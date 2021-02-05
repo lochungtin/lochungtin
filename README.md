@@ -1,10 +1,18 @@
-### **Hey there** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-
-
+## **Hey there**
+![GitHub followers](https://img.shields.io/github/followers/lochungtin?label=Follow&style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lochungtin.lochungtin)
 
 Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year computer science student studying at <a href="https://www.kcl.ac.uk/">King's College Longon</a>
+
+<a href="https://www.instagram.com/lochungtin/">
+    <img width="40" src="icons/instagram.png"/>
+</a>
+<a href="https://www.linkedin.com/in/timothy-lo-chung-tin/">
+    <img width="40" src="icons/linkedin.png"/>
+</a>
+<a href="https://discordapp.com/users/155275561256747008">
+    <img width="40" src="icons/discord.png"/>
+</a>
 
 ### **Current Work**
 - School work (obviously)

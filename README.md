@@ -2,19 +2,45 @@
 
 ### Languages Proficency
 
-| Language                                                                                                                            | Proficency              | Level                 |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | --------------------- |
-| [![](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=JavaScript&logoColor=white)](https://www.javascript.com/)         | <p>Proficent<p>         | <p>█████████████░░<p> |
-| [![](https://img.shields.io/badge/Language-Java-007396?logo=Java&logoColor=white)](https://www.java.com/en/)                        | <p>Proficent<p>         | <p>████████████░░░<p> |
-| [![](https://img.shields.io/badge/Language-HTML-E34F26?logo=HTML5&logoColor=white)](https://html.com/)                              | <p>Fluent</p>           | <p>███████████░░░░<p> |
-| [![](https://img.shields.io/badge/Language-CSS-1572B6?logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) | <p>Fluent</p>           | <p>███████████░░░░<p> |
-| [![](https://img.shields.io/badge/Language-Cpp-00599C?logo=C%2B%2B&logoColor=white)](https://www.cplusplus.com/)                    | <p>Fluent</p>           | <p>██████████░░░░░<p> |
-| [![](https://img.shields.io/badge/Language-Python-3776AB?logo=Python&logoColor=white)](https://www.python.org/)                     | <p>Working Knowledge<p> | <p>█████████░░░░░░<p> |
-| [![](https://img.shields.io/badge/Language-Scala-DC322F?logo=Scala&logoColor=white)](https://www.scala-lang.org/)                   | <p>Working Knowledge<p> | <p>█████████░░░░░░<p> |
-| [![](https://img.shields.io/badge/Language-PHP-777BB4?logo=PHP&logoColor=white)](https://www.php.net/)                              | <p>Working Knowledge<p> | <p>███████░░░░░░░░<p> |
-
 [![](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=JavaScript&logoColor=white)](https://www.javascript.com/)
-<img src="bars/js.png" alt="prog">
+<p>
+    <img src="bars/js.png" alt="prog">
+</p>
+
+[![](https://img.shields.io/badge/Language-HTML-E34F26?logo=HTML5&logoColor=white)](https://html.com/)  
+<p>
+    <img src="bars/java.png" alt="prog">
+</p>
+
+[![](https://img.shields.io/badge/Language-Java-007396?logo=Java&logoColor=white)](https://www.java.com/en/)
+<p>
+    <img src="bars/html.png" alt="prog">
+</p>
+
+[![](https://img.shields.io/badge/Language-CSS-1572B6?logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<p>
+    <img src="bars/css.png" alt="prog">
+</p>
+
+[![](https://img.shields.io/badge/Language-Cpp-00599C?logo=C%2B%2B&logoColor=white)](https://www.cplusplus.com/)
+<p>
+    <img src="bars/cpp.png" alt="prog">
+</p>
+
+[![](https://img.shields.io/badge/Language-Python-3776AB?logo=Python&logoColor=white)](https://www.python.org/)
+<p>
+    <img src="bars/py.png" alt="prog">
+</p>
+
+[![](https://img.shields.io/badge/Language-Scala-DC322F?logo=Scala&logoColor=white)](https://www.scala-lang.org/)  
+<p>
+    <img src="bars/scala.png" alt="prog">
+</p>
+
+[![](https://img.shields.io/badge/Language-PHP-777BB4?logo=PHP&logoColor=white)](https://www.php.net/) 
+<p>
+    <img src="bars/php.png" alt="prog">
+</p>
 
 ### Frameworks, Libraries, Platforms, and Services
 

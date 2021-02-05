@@ -23,7 +23,7 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 - RPI4 NAS w/ File Sync
 - Project Atlas (@ a private development stage)
 
-### **Languages Proficiency**
+### **Language Proficiency**
 
 <img src="badges/js.svg" alt="prog">
 <img src="badges/java.svg" alt="prog">

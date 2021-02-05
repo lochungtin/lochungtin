@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="660" height="20" role="img" aria-label="Language: PHP">
+    <title>Language: PHP</title>
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <clipPath id="r">
+        <rect width="111" height="20" rx="3" fill="#fff" />
+    </clipPath>
+    <g clip-path="url(#r)">
+        <rect width="80" height="20" fill="#555" />
+        <rect x="80" width="31" height="20" fill="#777bb4" />
+        <rect width="111" height="20" fill="url(#s)" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjNzc3QkI0IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+UEhQIGljb248L3RpdGxlPjxwYXRoIGQ9Ik03LjAxIDEwLjIwN2gtLjk0NGwtLjUxNSAyLjY0OGguODM4Yy41NTYgMCAuOTctLjEwNSAxLjI0Mi0uMzE0LjI3Mi0uMjEuNDU1LS41NTkuNTUtMS4wNDkuMDkyLS40Ny4wNS0uODAyLS4xMjQtLjk5NS0uMTc1LS4xOTMtLjUyMy0uMjktMS4wNDctLjI5ek0xMiA1LjY4OEM1LjM3MyA1LjY4OCAwIDguNTE0IDAgMTJzNS4zNzMgNi4zMTMgMTIgNi4zMTNTMjQgMTUuNDg2IDI0IDEyYzAtMy40ODYtNS4zNzMtNi4zMTItMTItNi4zMTJ6bS0zLjI2IDcuNDUxYy0uMjYxLjI1LS41NzUuNDM4LS45MTcuNTUxLS4zMzYuMTA4LS43NjUuMTY0LTEuMjg1LjE2NEg1LjM1N2wtLjMyNyAxLjY4MUgzLjY1MmwxLjIzLTYuMzI2aDIuNjVjLjc5NyAwIDEuMzc4LjIwOSAxLjc0NC42MjguMzY2LjQxOC40NzYgMS4wMDIuMzMgMS43NTJhMi44MzYgMi44MzYgMCAwIDEtLjMwNS44NDdjLS4xNDMuMjU1LS4zMy40OS0uNTYxLjcwM3ptNC4wMjQuNzE1bC41NDMtMi43OTljLjA2My0uMzE4LjAzOS0uNTM2LS4wNjgtLjY1MS0uMTA3LS4xMTYtLjMzNi0uMTc0LS42ODctLjE3NEgxMS40NmwtLjcwNCAzLjYyNUg5LjM4OGwxLjIzLTYuMzI3aDEuMzY3bC0uMzI3IDEuNjgyaDEuMjE4Yy43NjcgMCAxLjI5NS4xMzQgMS41ODYuNDAxcy4zNzguNy4yNjMgMS4yOTlsLS41NzIgMi45NDRoLTEuMzg5em03LjU5Ny0yLjI2NWEyLjc4MiAyLjc4MiAwIDAgMS0uMzA1Ljg0N2MtLjE0My4yNTUtLjMzLjQ5LS41NjEuNzAzYTIuNDQgMi40NCAwIDAgMS0uOTE3LjU1MWMtLjMzNi4xMDgtLjc2NS4xNjQtMS4yODYuMTY0aC0xLjE4bC0uMzI3IDEuNjgyaC0xLjM3OGwxLjIzLTYuMzI2aDIuNjQ5Yy43OTcgMCAxLjM3OC4yMDkgMS43NDQuNjI4LjM2Ni40MTcuNDc3IDEuMDAxLjMzMSAxLjc1MXpNMTcuNzY2IDEwLjIwN2gtLjk0M2wtLjUxNiAyLjY0OGguODM4Yy41NTcgMCAuOTcxLS4xMDUgMS4yNDItLjMxNC4yNzItLjIxLjQ1NS0uNTU5LjU1MS0xLjA0OS4wOTItLjQ3LjA0OS0uODAyLS4xMjUtLjk5NXMtLjUyNC0uMjktMS4wNDctLjI5eiIvPjwvc3ZnPg==" />
+        <text aria-hidden="true" x="495" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="530">Language</text>
+        <text x="495" y="140" transform="scale(.1)" fill="#fff" textLength="530">Language</text>
+        <text aria-hidden="true" x="945" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="210">PHP</text>
+        <text x="945" y="140" transform="scale(.1)" fill="#fff" textLength="210">PHP</text>
+        <image x="160" y="0" width="500" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAAUCAYAAAB75c+8AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAJzSURBVHja7N3PSlRhGMfx77xOajBaGpnaUAktQhGKatGqW1BQqF0XUItaJN1AUC5qUTeRmFY34AUYSeIQ4XLC0RhMCfLPyLSYY4yn09bmzHw/cGB4zjOb3+aZ98x5z8lMTk6SoB0Yi45bwGBUkyRJx+snUAQ+AXPAO2Av3pRN+OI48By4bIaSJP13OeBKdNwFVoEp4G19U6j73AY8ixoc5pIkNabLwGw0s9uSVuhPgcfmJElSKhzO7Kn6FfqEw1ySpFQO9YnDFXo78CLecapnhDNnr9Wv5iU1oBDgYr7K4EDVMKQmVKlUKJfLFAoFisViUstL4H3byMjIHeBe/ZnOk32cG7jN0b/YJTWiahV+bGXoOV2lw70oUhP+aA/kcjmGhoYIIVAqleIt3cDXQG1r2hH9A1dNUEqZ0kbGEKQmNzo6Sj6fTzo1FoCb8WpHZ5+pSSmzve1Al1rB8PBwUvlGAPrj1cqB/5tLabO3bwZSK+jt7U0qDwQSnjYjSZIaUyaTfDUuAGvxYrbtwMSklGk/YQZSKyiXy0nltQB8jld3dzZMTEqZ7i63rUmtoFAoJJUXAzAfr5bWlkxMSpn+Pge61OyWl5f/tRd9PgAz1N7i8sfOrw3K3xcBL71LjS4EuHShSleXWUjNqFKpsL6+zsLCAktLiQvub8BMltpNcY+AN/VntzZX2NpcMUkpBVa/mIHUwh4Cu4ePgpsBps1EkqRUmY5m+JFnuz4BXpmNJEmp8Dqa3cQH+gHwgNpbW1bNSZKkhrQKTAL3qbvZLZvQOAt8iJrHgevAecBdrpIkHb99aje+fQTmqF1i/+uhcL8BAAD//wMAR9WBDFVGf2wAAAAASUVORK5CYII=" />
+    </g>
+</svg>

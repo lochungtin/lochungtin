@@ -1,46 +1,23 @@
 ### Hey there 👋
 
-### Languages Proficency
+### Languages Proficiency
 
-[![](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=JavaScript&logoColor=white)](https://www.javascript.com/)
-<p>
-    <img src="bars/js.png" alt="prog">
-</p>
-
-[![](https://img.shields.io/badge/Language-HTML-E34F26?logo=HTML5&logoColor=white)](https://html.com/)  
-<p>
-    <img src="bars/java.png" alt="prog">
-</p>
-
-[![](https://img.shields.io/badge/Language-Java-007396?logo=Java&logoColor=white)](https://www.java.com/en/)
-<p>
-    <img src="bars/html.png" alt="prog">
-</p>
-
-[![](https://img.shields.io/badge/Language-CSS-1572B6?logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-<p>
-    <img src="bars/css.png" alt="prog">
-</p>
-
-[![](https://img.shields.io/badge/Language-Cpp-00599C?logo=C%2B%2B&logoColor=white)](https://www.cplusplus.com/)
-<p>
-    <img src="bars/cpp.png" alt="prog">
-</p>
-
-[![](https://img.shields.io/badge/Language-Python-3776AB?logo=Python&logoColor=white)](https://www.python.org/)
-<p>
-    <img src="bars/py.png" alt="prog">
-</p>
-
-[![](https://img.shields.io/badge/Language-Scala-DC322F?logo=Scala&logoColor=white)](https://www.scala-lang.org/)  
-<p>
-    <img src="bars/scala.png" alt="prog">
-</p>
-
-[![](https://img.shields.io/badge/Language-PHP-777BB4?logo=PHP&logoColor=white)](https://www.php.net/) 
-<p>
-    <img src="bars/php.png" alt="prog">
-</p>
+<img src="badges/js.svg" alt="prog">
+<br/ >
+<img src="badges/java.svg" alt="prog">
+<br/ >
+<img src="badges/html.svg" alt="prog">
+<br/ >
+<img src="badges/css.svg" alt="prog">
+<br/ >
+<img src="badges/cpp.svg" alt="prog">
+<br/ >
+<img src="badges/py.svg" alt="prog">
+<br/ >
+<img src="badges/scala.svg" alt="prog">
+<br/ >
+<img src="badges/php.svg" alt="prog">
+<br/ >
 
 ### Frameworks, Libraries, Platforms, and Services
 

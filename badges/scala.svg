@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="660" height="20" role="img" aria-label="Language: Scala">
+    <title>Language: Scala</title>
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <clipPath id="r">
+        <rect width="119" height="20" rx="3" fill="#fff" />
+    </clipPath>
+    <g clip-path="url(#r)">
+        <rect width="80" height="20" fill="#555" />
+        <rect x="80" width="39" height="20" fill="#dc322f" />
+        <rect width="119" height="20" fill="url(#s)" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZXNtb2tlIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U2NhbGEgaWNvbjwvdGl0bGU+PHBhdGggZD0iTTQuNTg5IDI0YzQuNTM3IDAgMTMuODEtMS41MTYgMTQuODIxLTN2LTUuNzI5Yy0uOTU3IDEuNDA4LTEwLjI4NCAyLjkxMi0xNC44MjEgMi45MTJWMjR6TTQuNTg5IDE2LjM2NWM0LjUzNyAwIDEzLjgxLTEuNTE2IDE0LjgyMS0zVjcuNjM2Yy0uOTU3IDEuNDA4LTEwLjI4NCAyLjkxMi0xNC44MjEgMi45MTJ2NS44MTd6TTQuNTg5IDguNzI5YzQuNTM3IDAgMTMuODEtMS41MTYgMTQuODIxLTNWMEMxOC40NTMgMS40MDggOS4xMjYgMi45MTIgNC41ODkgMi45MTJ2NS44MTd6Ii8+PC9zdmc+" />
+        <text aria-hidden="true" x="495" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="530">Language</text>
+        <text x="495" y="140" transform="scale(.1)" fill="#fff" textLength="530">Language</text>
+        <text aria-hidden="true" x="985" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="290">Scala</text>
+        <text x="985" y="140" transform="scale(.1)" fill="#fff" textLength="290">Scala</text>
+        <image x="160" y="0" width="500" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAAUCAYAAAB75c+8AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAKSSURBVHja7N3LahNhGIfxZya1hZpmUZFW201BqbQUEXVRr8CNqGA9IIgXULeKNyBoF7rQnVdgqceNy650o1gsBA9dSaQNmOIhPUQT6yITScdxq5Pm+cFAeOfN5r95+ZL55gsmJiZI0AmciK5xYHdUkyRJ/1YZKACvgAfAI+B7vKkj4YsngRvAHjOUJOm/ywL7ouscsABcAe43N4VNnzPA9ajBYS5JUjrtAWaimZ1JWqFfAy6bkyRJLaExs680r9BPOcwlSWrJoX6qsULvBG7GOwYr65z5vMyOlRWCjQ0jk/T/BQHrff0sHjvO2sCAeagtVKtVSqUS+XyeQqGQ1HILeJwZHR09C1xsvtNTqzJZXCS3tkZglpJSpKNcJvcmz5f9B/jZ6eYbbX1hGJLNZhkaGiIMQ5aWluItOeBdSH1r2iZHazW6KhVTlJRKmdVVdjx/ZhBqO2NjYwwODibdOhECh+PV4ZVvpiYp1bLv3xqC2tLIyEhS+VAI9Mer3V+/mpikVOtcXjYEtaXe3t6k8q6QhLfNSJKkdAqC5KfbQmAxXlzN5UxMUqp9T16lSFteqVRKKi+GwOt49e32HhOTlGrlvcOGoLaUz+eTyi9C4GG8+jSTodLVZWqSUqnW3U1p/IhBqO3Mz8//bS/6wxCYpn6Ky2/fMh3c3dnHp2wPG4E70SWlRBCw3r+LD+cvUM1mzUNtoVqtUiwWmZ2dZW5uLqnlIzAdRMenTgD3jE2SpJZzGphuvMt9GpgyE0mSWspUNMM3HZ96FbhtNpIktYQ70ewmPtBrwCXqp7YsmJMkSam0QP2v8slodgObz0NvmAGeRM0ngYPAALDNDCVJ+ud+UH/w7SXwgPpP7H+8FO4XAAAA//8DABbgj9WcPXzxAAAAAElFTkSuQmCC" />
+    </g>
+</svg>

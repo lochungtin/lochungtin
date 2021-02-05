@@ -3,21 +3,13 @@
 ### Languages Proficiency
 
 <img src="badges/js.svg" alt="prog">
-<br/ >
 <img src="badges/java.svg" alt="prog">
-<br/ >
 <img src="badges/html.svg" alt="prog">
-<br/ >
 <img src="badges/css.svg" alt="prog">
-<br/ >
 <img src="badges/cpp.svg" alt="prog">
-<br/ >
 <img src="badges/py.svg" alt="prog">
-<br/ >
 <img src="badges/scala.svg" alt="prog">
-<br/ >
 <img src="badges/php.svg" alt="prog">
-<br/ >
 
 ### Frameworks, Libraries, Platforms, and Services
 

@@ -1,4 +1,4 @@
-## **Hey there**
+## **Hey, welcome to my Github page**
 ![GitHub followers](https://img.shields.io/github/followers/lochungtin?label=Follow&style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lochungtin.lochungtin)
 

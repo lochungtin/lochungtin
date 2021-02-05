@@ -1,16 +1,3 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-    <image href="https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png" height="200" width="200"/>
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-                .tbl {
-                    height: 50px;
-                    width: 50px;
-                }
-            </style>
-            <div class="tbl">
-                
-            </div>
-        </div>
-    </foreignObject>
+    <image x="10" y="20" width="80" height="80" href='js.svg' />
 </svg>

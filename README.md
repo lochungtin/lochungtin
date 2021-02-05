@@ -22,9 +22,3 @@
 - [![](https://img.shields.io/badge/Services-Amazon_AWS-232F3E?logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/)
 - [![](https://img.shields.io/badge/Mini_PC-Raspberry_Pi-C51A4A?logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.org/)
 - [![](https://img.shields.io/badge/MCU-Arduino-00979D?logo=Arduino&logoColor=white)](https://www.raspberrypi.org/)
-
-### Tools and Environments
-
-- [![](https://img.shields.io/badge/Editor-VSCode-007ACC?logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
-- [![](https://img.shields.io/badge/IDE-Intellij-000000?logo=IntelliJ%20IDEA&logoColor=white)](https://www.jetbrains.com/idea/)
-- [![](https://img.shields.io/badge/IDE-Eclipse-2C2255?logo=Eclipse%20IDE&logoColor=white)](https://www.eclipse.org/)

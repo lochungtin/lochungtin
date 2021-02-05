@@ -1,6 +1,20 @@
-### Hey there 👋
+### **Hey there** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Languages Proficiency
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lochungtin.lochungtin)
+
+Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year computer science student studying at <a href="https://www.kcl.ac.uk/">King's College Longon</a>
+
+### **Current Work**
+- School work (obviously)
+- <a href="http://lochungtin.github.io/coincontrol.web">CoinControl</a>, a personal finance management app written in React Native
+- RPI4 NAS w/ File Sync
+- Project Atlas (private development stage)
+
+
+
+### **Languages Proficiency**
 
 <img src="badges/js.svg" alt="prog">
 <img src="badges/java.svg" alt="prog">
@@ -11,7 +25,7 @@
 <img src="badges/scala.svg" alt="prog">
 <img src="badges/php.svg" alt="prog">
 
-### Frameworks, Libraries, Platforms, and Services
+### **Frameworks, Libraries, Platforms, and Services**
 
 - [![](https://img.shields.io/badge/JavaScript_Framework-React-61DAFB?logo=React&logoColor=white)](https://reactjs.org/)
 - [![](https://img.shields.io/badge/JavaScript_Framework-React_Native-61DAFB?logo=React&logoColor=white)](https://reactnative.dev/)

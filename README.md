@@ -13,7 +13,7 @@
 | [![](https://img.shields.io/badge/Language-Scala-DC322F?logo=Scala&logoColor=white)](https://www.scala-lang.org/)                   | <p>Working Knowledge<p> | <p>█████████░░░░░░<p> |
 | [![](https://img.shields.io/badge/Language-PHP-777BB4?logo=PHP&logoColor=white)](https://www.php.net/)                              | <p>Working Knowledge<p> | <p>███████░░░░░░░░<p> |
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<img src="proficiencyChart.svg" width="800" height="400" alt="Click to see the source">
 
 ### Frameworks, Libraries, Platforms, and Services
 

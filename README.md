@@ -18,7 +18,7 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 </a>
 
 ### **Current Work**
-- School work (obviously)
+- School work
 - <a href="http://lochungtin.github.io/coincontrol.web">CoinControl</a>, a personal finance management app written in React Native
 - RPI4 NAS w/ File Sync
 - Project Atlas (@ a private development stage)

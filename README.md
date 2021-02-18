@@ -44,4 +44,4 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 - [![](https://img.shields.io/badge/Services-Google_Cloud-4285F4?logo=Google%20Cloud&logoColor=white)](https://cloud.google.com/)
 - [![](https://img.shields.io/badge/Services-Amazon_AWS-232F3E?logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/)
 - [![](https://img.shields.io/badge/Mini_PC-Raspberry_Pi-C51A4A?logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.org/)
-- [![](https://img.shields.io/badge/MCU-Arduino-00979D?logo=Arduino&logoColor=white)](https://www.raspberrypi.org/)
+- [![](https://img.shields.io/badge/MCU-Arduino-00979D?logo=Arduino&logoColor=white)](https://www.raspberrypi.org/) 

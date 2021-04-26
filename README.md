@@ -33,6 +33,9 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 <img src="badges/py.svg" alt="prog">
 <img src="badges/scala.svg" alt="prog">
 <img src="badges/php.svg" alt="prog">
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lochungtin&layout=compact)](https://github.com/lochungtin/github-readme-stats)
 
 ### **Frameworks, Libraries, Platforms, and Services**
 

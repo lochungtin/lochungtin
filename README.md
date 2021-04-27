@@ -1,11 +1,11 @@
-## **Hey, welcome to my Github page**
+# **Hey, welcome to my Github page**
 ![GitHub followers](https://img.shields.io/github/followers/lochungtin?label=Follow&style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lochungtin.lochungtin)
 
 Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year computer science student studying at <a href="https://www.kcl.ac.uk/">King's College London</a>
 - Self taught MERN Stack web developer
 - React Native mobile app developer
-
+- Microcontroller enthusiast
 
 <a href="https://www.instagram.com/lochungtin/">
     <img width="40" src="icons/instagram.png"/>
@@ -17,27 +17,40 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
     <img width="40" src="icons/discord.png"/>
 </a>
 
-### **Current Work**
+## **Current Work**
 - School work
 - <a href="http://lochungtin.github.io/coincontrol.web">CoinControl</a>, a personal finance management app written in React Native
+    - Stage: Close beta android testing
+
+- Pyxelite, an ARGB <a href="http://github.com/lochungtin/Pyxelite">controller</a> powered by React Native with a ESP32 as the <a href="http://github.com/lochungtin/ESPyxelite">physical device</a>
+    - Stage: Alpha android apk <a href="http://github.com/lochungtin/Pyxelite/releases">release</a>
+
+- <a href="http://github.com/lochungtin/Sonority">Sonority</a>, a multi-channel discord alarm bot that supports cross channel pinging
+    - Stage: Development
+
 - RPI4 NAS w/ File Sync
-- Project Atlas (@ a private development stage)
+    - Stage: Architecture design
 
-### **Language Proficiency**
+- Project Atlas (private personal project)
+    - Stage: Development
 
-<img src="badges/js.svg" alt="prog">
-<img src="badges/java.svg" alt="prog">
-<img src="badges/html.svg" alt="prog">
-<img src="badges/css.svg" alt="prog">
-<img src="badges/cpp.svg" alt="prog">
-<img src="badges/py.svg" alt="prog">
-<img src="badges/scala.svg" alt="prog">
-<img src="badges/php.svg" alt="prog">
-<br/>
+## **Language Proficiency**
+<a>
+    <img src="badges/js.svg" alt="prog">
+    <img src="badges/java.svg" alt="prog">
+    <img src="badges/html.svg" alt="prog">
+    <img src="badges/css.svg" alt="prog">
+    <img src="badges/cpp.svg" alt="prog">
+    <img src="badges/py.svg" alt="prog">
+    <img src="badges/scala.svg" alt="prog">
+    <img src="badges/php.svg" alt="prog">
+</a>
+<a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lochungtin&layout=compact)](https://github.com/lochungtin/github-readme-stats)
+</a>
 
-### **Frameworks, Libraries, Platforms, and Services**
+## **Frameworks, Libraries, Platforms, and Services**
 
 - [![](https://img.shields.io/badge/JavaScript_Framework-React-61DAFB?logo=React&logoColor=white)](https://reactjs.org/)
 - [![](https://img.shields.io/badge/JavaScript_Framework-React_Native-61DAFB?logo=React&logoColor=white)](https://reactnative.dev/)

@@ -15,6 +15,8 @@
 <a href="https://discordapp.com/users/155275561256747008">
     <img align="center" width="40" src="icons/discord.png"/>
 </a>
+</br>
+
 
 Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year computer science student studying at <a href="https://www.kcl.ac.uk/">King's College London</a>
 - Self taught MERN Stack web developer

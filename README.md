@@ -1,21 +1,25 @@
 # **Hey, welcome to my Github page**
-![GitHub followers](https://img.shields.io/github/followers/lochungtin?label=Follow&style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lochungtin.lochungtin)
+
+<a href="https://img.shields.io">
+    <img align="center" height="25"src="https://img.shields.io/github/followers/lochungtin?label=Follow&style=social">
+</a>
+<a href="visitor-badge.glitch.me">
+    <img align="center" height="25"src="https://visitor-badge.glitch.me/badge?page_id=lochungtin.lochungtin">
+</a>
+<a href="https://www.instagram.com/lochungtin/">
+    <img align="center" width="40" src="icons/instagram.png"/>
+</a>
+<a href="https://www.linkedin.com/in/timothy-lo-chung-tin/">
+    <img align="center" width="40" src="icons/linkedin.png"/>
+</a>
+<a href="https://discordapp.com/users/155275561256747008">
+    <img align="center" width="40" src="icons/discord.png"/>
+</a>
 
 Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year computer science student studying at <a href="https://www.kcl.ac.uk/">King's College London</a>
 - Self taught MERN Stack web developer
 - React Native mobile app developer
 - Microcontroller enthusiast
-
-<a href="https://www.instagram.com/lochungtin/">
-    <img width="40" src="icons/instagram.png"/>
-</a>
-<a href="https://www.linkedin.com/in/timothy-lo-chung-tin/">
-    <img width="40" src="icons/linkedin.png"/>
-</a>
-<a href="https://discordapp.com/users/155275561256747008">
-    <img width="40" src="icons/discord.png"/>
-</a>
 
 ## **Current Work**
 - School work
@@ -48,7 +52,6 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lochungtin&show_icons=true&theme=tokyonight" />
 </a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochungtin&theme=tokyonight&layout=compact" />
 </a>

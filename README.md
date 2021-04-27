@@ -34,21 +34,17 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 - Project Atlas (private personal project)
     - Stage: Development
 
-## **Language Proficiency**
-<a>
-    <img src="badges/js.svg" alt="prog">
-    <img src="badges/java.svg" alt="prog">
-    <img src="badges/html.svg" alt="prog">
-    <img src="badges/css.svg" alt="prog">
-    <img src="badges/cpp.svg" alt="prog">
-    <img src="badges/py.svg" alt="prog">
-    <img src="badges/scala.svg" alt="prog">
-    <img src="badges/php.svg" alt="prog">
-</a>
-<a>
+## **Language Proficiency + Stats**
+<img src="badges/js.svg" alt="prog">
+<img src="badges/java.svg" alt="prog">
+<img src="badges/html.svg" alt="prog">
+<img src="badges/css.svg" alt="prog">
+<img src="badges/cpp.svg" alt="prog">
+<img src="badges/py.svg" alt="prog">
+<img src="badges/scala.svg" alt="prog">
+<img src="badges/php.svg" alt="prog">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lochungtin&layout=compact)](https://github.com/lochungtin/github-readme-stats)
-</a>
 
 ## **Frameworks, Libraries, Platforms, and Services**
 

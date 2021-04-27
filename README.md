@@ -23,7 +23,7 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
     - Stage: Close beta android testing
 
 - Pyxelite, an ARGB <a href="http://github.com/lochungtin/Pyxelite">controller</a> powered by React Native with a ESP32 as the <a href="http://github.com/lochungtin/ESPyxelite">physical device</a>
-    - Stage: Alpha android apk <a href="http://github.com/lochungtin/Pyxelite/releases">release</a>
+    - Stage: Alpha Android apk <a href="http://github.com/lochungtin/Pyxelite/releases">release</a>
 
 - <a href="http://github.com/lochungtin/Sonority">Sonority</a>, a multi-channel discord alarm bot that supports cross channel pinging
     - Stage: Development

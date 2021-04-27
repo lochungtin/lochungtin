@@ -52,8 +52,8 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 ## **Stats**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=lochungtin&show_icons=true&theme=tokyonight" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=lochungtin&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochungtin&theme=tokyonight&layout=compact&langs_count=8" />
+  <img align="top" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochungtin&theme=tokyonight&layout=compact&langs_count=8" />
 </a>

@@ -17,7 +17,7 @@
 </a>
 </br>
 </br>
-</br>
+
 Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year computer science student studying at <a href="https://www.kcl.ac.uk/">King's College London</a>
 - Self taught MERN Stack web developer
 - React Native mobile app developer

@@ -23,21 +23,26 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 - React Native mobile app developer
 - Microcontroller enthusiast
 
+## **Completed Work**
+
+- <a href="http://github.com/lochungtin/RN2048">RN2048</a>, the 2048 game, coded and <a href="http://github.com/lochungtin/RN2048/releases">released</a> in React Native as a 4 day weekend challenge
+
+- <a href="http://github.com/lochungtin/github-fetch">Github Fetch</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/github-fetch">npm</a> package to download any file stored in any publicly accessible github repo
+
+- <a href="http://github.com/lochungtin/kmeans-clustering">K Means Clustering</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/kmeans-clustering">npm</a> package to perform k-means clustering on a data set
+
 ## **Current Work**
-- School work
 - <a href="http://lochungtin.github.io/coincontrol.web">CoinControl</a>, a personal finance management app written in React Native
     - Stage: Close beta android testing
 
+- <a href="http://github.com/lochungtin/Preply">Preply</a>, a minimal note / todo list app with routine reminders and utility tools
+    - Stage: Development 
+
 - Pyxelite, an ARGB <a href="http://github.com/lochungtin/Pyxelite">controller</a> powered by React Native with a ESP32 as the <a href="http://github.com/lochungtin/ESPyxelite">physical device</a>
-    - Stage: Alpha Android apk <a href="http://github.com/lochungtin/Pyxelite/releases">release</a>
+    - Mobile App - Stage: Alpha Android apk <a href="http://github.com/lochungtin/Pyxelite/releases">release</a>
+    - ESP32 Controller - Stage: Post development testing
 
 - <a href="http://github.com/lochungtin/Sonority">Sonority</a>, a multi-channel discord alarm bot that supports cross channel pinging
-    - Stage: Development
-
-- RPI4 NAS w/ File Sync
-    - Stage: Architecture design
-
-- Project Atlas (private personal project)
     - Stage: Development
 
 ## **Language Proficiency**
@@ -49,7 +54,7 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 <img src="badges/py.svg" alt="prog">
 <img src="badges/scala.svg" alt="prog">
 
-## **Stats**
+## **Other Stats**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=lochungtin&show_icons=true&theme=tokyonight" />

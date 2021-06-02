@@ -25,11 +25,13 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 
 ## **Completed Work**
 
-- <a href="http://github.com/lochungtin/RN2048">RN2048</a>, the 2048 game, coded and <a href="http://github.com/lochungtin/RN2048/releases">released</a> in React Native as a 4 day weekend challenge
+- <a href="http://github.com/lochungtin/Unifin">Unifin</a>, multi-award winning hackathon project (Best use of Google Cloud Computing & Best financial hack)
 
 - <a href="http://github.com/lochungtin/github-fetch">Github Fetch</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/github-fetch">npm</a> package to download any file stored in any publicly accessible github repo
 
 - <a href="http://github.com/lochungtin/kmeans-clustering">K Means Clustering</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/kmeans-clustering">npm</a> package to perform k-means clustering on a data set
+
+- <a href="http://github.com/lochungtin/RN2048">RN2048</a>, the 2048 game, coded and <a href="http://github.com/lochungtin/RN2048/releases">released</a> in React Native as a 4 day weekend challenge
 
 ## **Current Work**
 - <a href="http://lochungtin.github.io/coincontrol.web">CoinControl</a>, a personal finance management app written in React Native

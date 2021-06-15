@@ -40,7 +40,7 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
     - Stage: Close beta android testing
 
 - <a href="http://github.com/lochungtin/Preply">Preply</a>, a minimal note / todo list app with routine reminders and utility tools
-    - Stage: Development 
+    - Stage: Alpha testing
 
 - Pyxelite, an ARGB <a href="http://github.com/lochungtin/Pyxelite">controller</a> powered by React Native with a ESP32 as the <a href="http://github.com/lochungtin/ESPyxelite">physical device</a>
     - Mobile App - Stage: Alpha Android apk <a href="http://github.com/lochungtin/Pyxelite/releases">release</a>

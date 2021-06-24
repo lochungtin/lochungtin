@@ -35,12 +35,13 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 
 - <a href="http://github.com/lochungtin/RN2048">RN2048</a>, the 2048 game, coded and <a href="http://github.com/lochungtin/RN2048/releases">released</a> in React Native as a 4 day weekend challenge
 
+- <a href="http://github.com/lochungtin/RNFirebaseChat">RNFirebaseChat</a>, an instant messaging app coded and <a href="http://github.com/lochungtin/RN2048/releases">released</a> in React Native and powered by Firebase's realtime database as a 5 day project challenge
+
+- <a href="http://github.com/lochungtin/Preply">Preply</a>, a minimal note / todo list app with that supports push notification reminders and utility tools. Coded and powered by React Native and Firebase's realtime database. Currently alpha <a href="http://github.com/lochungtin/Preply/releases">released</a> for testing.
+
 ## **Current Work**
 - <a href="http://lochungtin.github.io/coincontrol.web">CoinControl</a>, a personal finance management app written in React Native
     - Stage: Close beta android testing
-
-- <a href="http://github.com/lochungtin/Preply">Preply</a>, a minimal note / todo list app with routine reminders and utility tools
-    - Stage: Alpha testing
 
 - Pyxelite, an ARGB <a href="http://github.com/lochungtin/Pyxelite">controller</a> powered by React Native with a ESP32 as the <a href="http://github.com/lochungtin/ESPyxelite">physical device</a>
     - Mobile App - Stage: Alpha Android apk <a href="http://github.com/lochungtin/Pyxelite/releases">release</a>

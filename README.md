@@ -27,17 +27,21 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 
 - <a href="http://github.com/lochungtin/Unifin">Unifin</a>, multi-award winning hackathon project (Best use of Google Cloud Computing & Best financial hack)
 
+- <a href="http://github.com/lochungtin/RN2048">RN2048</a>, the 2048 game, coded and <a href="http://github.com/lochungtin/RN2048/releases">released</a> in React Native as a 4 day weekend challenge
+
+- <a href="http://github.com/lochungtin/RNFirebaseChat">RNFirebaseChat</a>, an instant messaging app coded and <a href="http://github.com/lochungtin/RN2048/releases">released</a> in React Native and powered by Firebase's realtime database as a 5 day project challenge
+
+- <a href="http://github.com/lochungtin/Preply">Preply</a>, a minimal note / todo list app with that supports push notification reminders and utility tools. Coded and powered by React Native and Firebase's realtime database. Currently alpha <a href="http://github.com/lochungtin/Preply/releases">released</a> for testing.
+
+### **Released NPM Packages**
+
 - <a href="http://github.com/lochungtin/github-fetch">Github Fetch</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/github-fetch">npm</a> package to download any file stored in any publicly accessible github repo
 
 - <a href="http://github.com/lochungtin/kmeans-clustering">K Means Clustering</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/kmeans-clustering">npm</a> package to perform k-means clustering on a data set
 
 - <a href="http://github.com/lochungtin/node-file-tree">Node File Tree</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/node-file-tree">npm</a> package that creates a simple file tree with any root folder
 
-- <a href="http://github.com/lochungtin/RN2048">RN2048</a>, the 2048 game, coded and <a href="http://github.com/lochungtin/RN2048/releases">released</a> in React Native as a 4 day weekend challenge
-
-- <a href="http://github.com/lochungtin/RNFirebaseChat">RNFirebaseChat</a>, an instant messaging app coded and <a href="http://github.com/lochungtin/RN2048/releases">released</a> in React Native and powered by Firebase's realtime database as a 5 day project challenge
-
-- <a href="http://github.com/lochungtin/Preply">Preply</a>, a minimal note / todo list app with that supports push notification reminders and utility tools. Coded and powered by React Native and Firebase's realtime database. Currently alpha <a href="http://github.com/lochungtin/Preply/releases">released</a> for testing.
+- <a href="http://github.com/lochungtin/color">Color</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/color">npm</a> package for managing, converting, and mixing colors
 
 ## **Current Work**
 - <a href="http://lochungtin.github.io/coincontrol.web">CoinControl</a>, a personal finance management app written in React Native

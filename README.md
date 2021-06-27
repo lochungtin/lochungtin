@@ -54,16 +54,7 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 - <a href="http://github.com/lochungtin/Sonority">Sonority</a>, a multi-channel discord alarm bot that supports cross channel pinging
     - Stage: Development
 
-## **Language Proficiency**
-<img src="badges/js.svg" alt="prog">
-<img src="badges/java.svg" alt="prog">
-<img src="badges/html.svg" alt="prog">
-<img src="badges/css.svg" alt="prog">
-<img src="badges/cpp.svg" alt="prog">
-<img src="badges/py.svg" alt="prog">
-<img src="badges/scala.svg" alt="prog">
-
-## **Other Stats**
+## **Stats**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=lochungtin&show_icons=true&theme=tokyonight" />

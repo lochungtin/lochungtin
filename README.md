@@ -19,9 +19,10 @@
 </br>
 
 Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year computer science student studying at <a href="https://www.kcl.ac.uk/">King's College London</a>
-- Self taught MERN Stack web developer
-- React Native mobile app developer
-- Microcontroller enthusiast
+- Self-taught MERN Stack Web Developer
+- React Native Mobile App Developer
+- Microcontroller Enthusiast
+- 2017 Robofest GRAF World Champion + Winner of the People's Choice Award
 
 ## **Completed Work**
 

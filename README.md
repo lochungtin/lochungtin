@@ -39,6 +39,8 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 
 - <a href="http://github.com/lochungtin/kmeans-clustering">K Means Clustering</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/kmeans-clustering">npm</a> package to perform k-means clustering on a data set
 
+- <a href="http://github.com/lochungtin/calendarJS">CalendarJS</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/calendarjs">npm</a> package for generating and visualising calendar objects, and handling more complex date related functions
+
 - <a href="http://github.com/lochungtin/node-file-tree">Node File Tree</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/node-file-tree">npm</a> package that creates a simple file tree with any root folder
 
 - <a href="http://github.com/lochungtin/color">Color</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/color">npm</a> package for managing, converting, and mixing colors

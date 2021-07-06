@@ -42,9 +42,11 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 
 - <a href="http://github.com/lochungtin/calendarJS">CalendarJS</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/calendarjs">npm</a> package for generating and visualising calendar objects, and handling more complex date related functions
 
+- <a href="http://github.com/lochungtin/node-exp-solver">Node Expression Solver</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/node-exp-solver">npm</a> package for converting Infix-notated expressions to Reverse Polish Notation, expression tokenizer and evaluator.
+
 - <a href="http://github.com/lochungtin/node-file-tree">Node File Tree</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/node-file-tree">npm</a> package that creates a simple file tree with any root folder
 
-- <a href="http://github.com/lochungtin/color">Color</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/color">npm</a> package for managing, converting, and mixing colors
+- <a href="http://github.com/lochungtin/node-color">Color</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/node-color">npm</a> package for managing, converting, and mixing colors
 
 ## **Current Work**
 - <a href="http://lochungtin.github.io/coincontrol.web">CoinControl</a>, a personal finance management app written in React Native
@@ -56,6 +58,10 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 
 - <a href="http://github.com/lochungtin/Sonority">Sonority</a>, a multi-channel discord alarm bot that supports cross channel pinging
     - Stage: Development
+
+- <a href="http://github.com/lochungtin/node-exp-solver">Node Expression Solver</a>
+    - Stage: Continuous Development
+        - Complex function handling
 
 ## **Stats**
 

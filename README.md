@@ -34,6 +34,8 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 
 - <a href="http://github.com/lochungtin/Preply">Preply</a>, a minimal note / todo list app with that supports push notification reminders and utility tools. Coded and powered by React Native and Firebase's realtime database. Currently alpha <a href="http://github.com/lochungtin/Preply/releases">released</a> for testing.
 
+- <a href="http://github.com/lochungtin/Sonority">Sonority</a>, a multi-channel discord alarm bot that supports cross channel pinging. Not release ready as it is only used for a private server.
+
 ### **Released NPM Packages**
 
 - <a href="http://github.com/lochungtin/github-fetch">Github Fetch</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/github-fetch">npm</a> package to download any file stored in any publicly accessible github repo
@@ -55,9 +57,6 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 - Pyxelite, an ARGB <a href="http://github.com/lochungtin/Pyxelite">controller</a> powered by React Native with a ESP32 as the <a href="http://github.com/lochungtin/ESPyxelite">physical device</a>
     - Mobile App - Stage: Alpha Android apk <a href="http://github.com/lochungtin/Pyxelite/releases">release</a>
     - ESP32 Controller - Stage: Post development testing
-
-- <a href="http://github.com/lochungtin/Sonority">Sonority</a>, a multi-channel discord alarm bot that supports cross channel pinging
-    - Stage: Development
 
 - <a href="http://github.com/lochungtin/node-exp-solver">Node Expression Solver</a>
     - Stage: Continuous Development

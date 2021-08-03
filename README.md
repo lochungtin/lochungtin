@@ -52,7 +52,7 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 
 ## **Current Work**
 - <a href="http://lochungtin.github.io/coincontrol.web">CoinControl</a>, a personal finance management app written in React Native
-    - Stage: Close beta android testing
+    - Stage: V2.0.0 alpha testing
 
 - Pyxelite, an ARGB <a href="http://github.com/lochungtin/Pyxelite">controller</a> powered by React Native with a ESP32 as the <a href="http://github.com/lochungtin/ESPyxelite">physical device</a>
     - Mobile App - Stage: Alpha Android apk <a href="http://github.com/lochungtin/Pyxelite/releases">release</a>

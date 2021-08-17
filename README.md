@@ -62,6 +62,9 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
     - Stage: Continuous Development
         - Complex function handling
 
+- <a href="http://github.com/lochungtin/snakeAI">Snake AI</a>, an Neural Q Reinforcement Agent to play a game of <a href="http://github.com/lochungtin/snake">snake </a>
+    - Stage: Learning, Research, and Development
+
 ## **Stats**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

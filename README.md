@@ -26,15 +26,18 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 
 ## **Completed Work**
 
+- <a href="http://github.com/lochungtin/snakeAI">Snake AI</a>, an Neural Expected Sarsa Reinforcement Agent to play a game of <a href="http://github.com/lochungtin/snake">snake</a>
+- <a href="http://github.com/lochungtin/Preply">Preply</a>, a minimal note / todo list app with that supports push notification reminders and utility tools. Coded and powered by React Native and Firebase's realtime database. Currently alpha <a href="http://github.com/lochungtin/Preply/releases">released</a> for testing.
+
 - <a href="http://github.com/lochungtin/Unifin">Unifin</a>, multi-award winning hackathon project (Best use of Google Cloud Computing & Best financial hack)
 
 - <a href="http://github.com/lochungtin/RN2048">RN2048</a>, the 2048 game, coded and <a href="http://github.com/lochungtin/RN2048/releases">released</a> in React Native as a 4 day weekend challenge
 
 - <a href="http://github.com/lochungtin/RNFirebaseChat">RNFirebaseChat</a>, an instant messaging app coded and <a href="http://github.com/lochungtin/RN2048/releases">released</a> in React Native and powered by Firebase's realtime database as a 5 day project challenge
 
-- <a href="http://github.com/lochungtin/Preply">Preply</a>, a minimal note / todo list app with that supports push notification reminders and utility tools. Coded and powered by React Native and Firebase's realtime database. Currently alpha <a href="http://github.com/lochungtin/Preply/releases">released</a> for testing.
 
 - <a href="http://github.com/lochungtin/Sonority">Sonority</a>, a multi-channel discord alarm bot that supports cross channel pinging. Not release ready as it is only used for a private server.
+
 
 ### **Released NPM Packages**
 
@@ -50,6 +53,7 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 
 - <a href="http://github.com/lochungtin/node-color">Color</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/node-color">npm</a> package for managing, converting, and mixing colors
 
+
 ## **Current Work**
 - <a href="http://lochungtin.github.io/coincontrol.web">CoinControl</a>, a personal finance management app written in React Native
     - Stage: V2.0.0 alpha testing
@@ -62,8 +66,8 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
     - Stage: Continuous Development
         - Complex function handling
 
-- <a href="http://github.com/lochungtin/snakeAI">Snake AI</a>, an Neural Q Reinforcement Agent to play a game of <a href="http://github.com/lochungtin/snake">snake </a>
-    - Stage: Learning, Research, and Development
+- <a href="http://github.com/lochungtin/2048AI">2048 AI</a>, an Neural Q Reinforcement Agent to play a game of <a href="http://github.com/lochungtin/2048">2048</a>
+    - Stage: AI Development
 
 ## **Stats**
 

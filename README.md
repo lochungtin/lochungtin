@@ -67,7 +67,7 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
         - Complex function handling
 
 - <a href="http://github.com/lochungtin/2048AI">2048 AI</a>, an Neural Q Reinforcement Agent to play a game of <a href="http://github.com/lochungtin/2048">2048</a>
-    - Stage: AI Development
+    - Stage: AI agent development
 
 ## **Stats**
 

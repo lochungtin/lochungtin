@@ -22,6 +22,7 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 - Self-taught MERN Stack Web Developer
 - React Native Mobile App Developer
 - Microcontroller Enthusiast
+- AI ML Enthusiast
 - 2017 Robofest GRAF World Champion + Winner of the People's Choice Award
 
 ## **Completed Work**

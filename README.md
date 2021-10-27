@@ -63,13 +63,6 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
     - Mobile App - Stage: Alpha Android apk <a href="http://github.com/lochungtin/Pyxelite/releases">release</a>
     - ESP32 Controller - Stage: Post development testing
 
-- <a href="http://github.com/lochungtin/node-exp-solver">Node Expression Solver</a>
-    - Stage: Continuous Development
-        - Complex function handling
-
-- <a href="http://github.com/lochungtin/2048AI">2048 AI</a>, an Neural Q Reinforcement Agent to play a game of <a href="http://github.com/lochungtin/2048">2048</a>
-    - Stage: AI agent development
-
 ## **Stats**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

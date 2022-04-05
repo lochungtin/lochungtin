@@ -18,7 +18,8 @@
 </br>
 </br>
 
-Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year computer science student studying at <a href="https://www.kcl.ac.uk/">King's College London</a>
+Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a third year computer science student studying at <a href="https://www.kcl.ac.uk/">King's College London</a>
+
 - Self-taught MERN Stack Web Developer
 - React Native Mobile App Developer
 - Microcontroller Enthusiast
@@ -36,9 +37,7 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 
 - <a href="http://github.com/lochungtin/RNFirebaseChat">RNFirebaseChat</a>, an instant messaging app coded and <a href="http://github.com/lochungtin/RN2048/releases">released</a> in React Native and powered by Firebase's realtime database as a 5 day project challenge
 
-
 - <a href="http://github.com/lochungtin/Sonority">Sonority</a>, a multi-channel discord alarm bot that supports cross channel pinging. Not release ready as it is only used for a private server.
-
 
 ### **Released NPM Packages**
 
@@ -54,14 +53,14 @@ Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a second year
 
 - <a href="http://github.com/lochungtin/node-color">Color</a>, a <a href="https://www.npmjs.com/package/@enigmaoffline/node-color">npm</a> package for managing, converting, and mixing colors
 
-
 ## **Current Work**
+
 - <a href="http://lochungtin.github.io/coincontrol.web">CoinControl</a>, a personal finance management app written in React Native
-    - Stage: V2.0.0 alpha testing
+  - Stage: V2.0.0 alpha testing
 
 - Pyxelite, an ARGB <a href="http://github.com/lochungtin/Pyxelite">controller</a> powered by React Native with a ESP32 as the <a href="http://github.com/lochungtin/ESPyxelite">physical device</a>
-    - Mobile App - Stage: Alpha Android apk <a href="http://github.com/lochungtin/Pyxelite/releases">release</a>
-    - ESP32 Controller - Stage: Post development testing
+  - Mobile App - Stage: Alpha Android apk <a href="http://github.com/lochungtin/Pyxelite/releases">release</a>
+  - ESP32 Controller - Stage: Post development testing
 
 ## **Stats**
 

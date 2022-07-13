@@ -1,5 +1,5 @@
 <style>
-	span{color:tranparent !important;}
+ span{color:tranparent !important;}
 </style>
 
 # **Hey, welcome to my Github page!**
@@ -8,30 +8,31 @@
  <a href="mailto:lochuntin@gmail.com">
   <img align="center" width="30" src="icons/social/gmail.svg"/>
  </a>
- <span style="color:transparent;">_</span>
+ <img align="center" width="10" src="icons/transparent_block.svg">
  <a href="https://www.linkedin.com/in/timothy-lo-chung-tin/">
   <img align="center" width="30" src="icons/social/linkedin.svg"/>
  </a>
- <span style="color:transparent;">_</span>
+ <img align="center" width="10" src="icons/transparent_block.svg">
  <a href="https://www.instagram.com/lochungtin/">
   <img align="center" width="30" src="icons/social/npm.svg"/>
  </a>
- <span style="color:transparent;">_</span>
+ <img align="center" width="10" src="icons/transparent_block.svg">
  <a href="https://www.instagram.com/lochungtin/">
   <img align="center" width="130" src="icons/logo_full_c.svg"/>
  </a>
- <span>_</span>
+ <img align="center" width="10" src="icons/transparent_block.svg">
  <a href="https://www.instagram.com/lochungtin/">
  <img align="center" width="30" src="icons/social/instagram.svg"/>
  </a>
- <span>_</span>
+ <img align="center" width="10" src="icons/transparent_block.svg">
  <a href="https://discordapp.com/users/155275561256747008">
  <img align="center" width="30" src="icons/social/discord.svg"/>
  </a>
- <span>_</span>
+ <img align="center" width="10" src="icons/transparent_block.svg">
   <a href="https://www.instagram.com/lochungtin/">
   <img align="center" width="30" src="icons/social/twitter.svg"/>
  </a>
+ <img align="center" width="10" src="icons/transparent_block.svg">
 </p>
 </br>
 

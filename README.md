@@ -1,14 +1,16 @@
 # **Hey, welcome to my Github page!**
 
-<a href="https://www.instagram.com/lochungtin/">
-    <img align="center" width="40" src="icons/social/instagram.svg"/>
-</a>
-<a href="https://www.linkedin.com/in/timothy-lo-chung-tin/">
-    <img align="center" width="40" src="icons/social/linkedin.svg"/>
-</a>
-<a href="https://discordapp.com/users/155275561256747008">
-    <img align="center" width="40" src="icons/social/discord.svg"/>
-</a>
+<div style="align-items:center;justify-content:space-between;display:flex;width:50%;">
+	<a href="https://www.instagram.com/lochungtin/">
+		<img align="center" width="40" src="icons/social/instagram.svg"/>
+	</a>
+	<a href="https://www.linkedin.com/in/timothy-lo-chung-tin/">
+		<img align="center" width="40" src="icons/social/linkedin.svg"/>
+	</a>
+	<a href="https://discordapp.com/users/155275561256747008">
+		<img align="center" width="40" src="icons/social/discord.svg"/>
+	</a>
+</div>
 </br>
 
 ## **About Me**

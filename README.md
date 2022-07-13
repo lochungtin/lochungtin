@@ -2,25 +2,31 @@
 
 <p align="center">
  <a href="mailto:lochuntin@gmail.com">
-  <img align="center" width="40" src="icons/social/gmail.svg"/>
+  <img align="center" width="30" src="icons/social/gmail.svg"/>
  </a>
+ <span>___</span>
  <a href="https://www.linkedin.com/in/timothy-lo-chung-tin/">
-  <img align="center" width="40" src="icons/social/linkedin.svg"/>
+  <img align="center" width="30" src="icons/social/linkedin.svg"/>
  </a>
+ <span>___</span>
  <a href="https://www.instagram.com/lochungtin/">
-  <img align="center" width="40" src="icons/social/npm.svg"/>
+  <img align="center" width="30" src="icons/social/npm.svg"/>
  </a>
+ <span>___</span>
  <a href="https://www.instagram.com/lochungtin/">
   <img align="center" width="130" src="icons/logo_full_c.svg"/>
  </a>
+ <span>___</span>
  <a href="https://www.instagram.com/lochungtin/">
- <img align="center" width="40" src="icons/social/instagram.svg"/>
+ <img align="center" width="30" src="icons/social/instagram.svg"/>
  </a>
+ <span>___</span>
  <a href="https://discordapp.com/users/155275561256747008">
- <img align="center" width="40" src="icons/social/discord.svg"/>
+ <img align="center" width="30" src="icons/social/discord.svg"/>
  </a>
+ <span>___</span>
   <a href="https://www.instagram.com/lochungtin/">
-  <img align="center" width="40" src="icons/social/twitter.svg"/>
+  <img align="center" width="30" src="icons/social/twitter.svg"/>
  </a>
 </p>
 </br>

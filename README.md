@@ -34,7 +34,7 @@
 
 ## **About Me**
 
-Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a third year computer science student studying at <a href="https://www.kcl.ac.uk/">King's College London</a>
+Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a 1st Class Honours BSc Computer Science student at <a href="https://www.kcl.ac.uk/">King's College London</a>
 
 - Self-taught Web and Mobile Developer
   - <a href="https://www.mongodb.com/mern-stack">React MERN Stack</a>

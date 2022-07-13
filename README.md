@@ -1,7 +1,3 @@
-<style>
- span{color:tranparent !important;}
-</style>
-
 # **Hey, welcome to my Github page!**
 
 <p align="center">

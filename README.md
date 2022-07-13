@@ -1,19 +1,13 @@
-# **Hey, welcome to my Github page**
+# **Hey, welcome to my Github page!**
 
-<a href="https://img.shields.io">
-    <img align="center" height="25"src="https://img.shields.io/github/followers/lochungtin?label=Follow&style=social">
-</a>
-<a href="visitor-badge.glitch.me">
-    <img align="center" height="25"src="https://visitor-badge.glitch.me/badge?page_id=lochungtin.lochungtin">
-</a>
 <a href="https://www.instagram.com/lochungtin/">
-    <img align="center" width="40" src="icons/instagram.png"/>
+    <img align="center" width="40" src="icons/social/instagram.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/timothy-lo-chung-tin/">
-    <img align="center" width="40" src="icons/linkedin.png"/>
+    <img align="center" width="40" src="icons/social/linkedin.svg"/>
 </a>
 <a href="https://discordapp.com/users/155275561256747008">
-    <img align="center" width="40" src="icons/discord.png"/>
+    <img align="center" width="40" src="icons/social/discord.svg"/>
 </a>
 </br>
 

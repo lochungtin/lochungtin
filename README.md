@@ -4,15 +4,15 @@
  <a href="mailto:lochuntin@gmail.com">
   <img align="center" width="30" src="icons/social/gmail.svg"/>
  </a>
- <span>_</span>
+ <span style="color:transparent;">_</span>
  <a href="https://www.linkedin.com/in/timothy-lo-chung-tin/">
   <img align="center" width="30" src="icons/social/linkedin.svg"/>
  </a>
- <span>_</span>
+ <span style="color:transparent;">_</span>
  <a href="https://www.instagram.com/lochungtin/">
   <img align="center" width="30" src="icons/social/npm.svg"/>
  </a>
- <span>_</span>
+ <span style="color:transparent;">_</span>
  <a href="https://www.instagram.com/lochungtin/">
   <img align="center" width="130" src="icons/logo_full_c.svg"/>
  </a>

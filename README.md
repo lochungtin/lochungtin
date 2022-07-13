@@ -1,15 +1,15 @@
 # **Hey, welcome to my Github page!**
 
 <div style="align-items:center;justify-content:space-between;display:flex;width:200px;">
-	<a href="https://www.instagram.com/lochungtin/">
-		<img align="center" width="40" src="icons/social/instagram.svg"/>
-	</a>
-	<a href="https://www.linkedin.com/in/timothy-lo-chung-tin/">
-		<img align="center" width="40" src="icons/social/linkedin.svg"/>
-	</a>
-	<a href="https://discordapp.com/users/155275561256747008">
-		<img align="center" width="40" src="icons/social/discord.svg"/>
-	</a>
+ <a href="https://www.instagram.com/lochungtin/" style="margin-left:20px">
+  <img align="center" width="40" src="icons/social/instagram.svg"/>
+ </a>
+ <a href="https://www.linkedin.com/in/timothy-lo-chung-tin/" style="margin-left:20px">
+  <img align="center" width="40" src="icons/social/linkedin.svg"/>
+ </a>
+ <a href="https://discordapp.com/users/155275561256747008" style="margin-left:20px">
+  <img align="center" width="40" src="icons/social/discord.svg"/>
+ </a>
 </div>
 </br>
 

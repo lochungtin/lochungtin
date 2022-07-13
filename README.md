@@ -1,6 +1,6 @@
 # **Hey, welcome to my Github page!**
 
-<div style="align-items:center;justify-content:space-between;display:flex;width:50%;">
+<div style="align-items:center;justify-content:space-between;display:flex;width:200px;">
 	<a href="https://www.instagram.com/lochungtin/">
 		<img align="center" width="40" src="icons/social/instagram.svg"/>
 	</a>

@@ -34,14 +34,23 @@
 
 ## **About Me**
 
-Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a 1st Class Honours BSc Computer Science student at <a href="https://www.kcl.ac.uk/">King's College London</a>
+Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a research masters stduent studying AI and ML at <a href="http://imperial.ac.uk/">Imperial College London</a>.
 
-- Self-taught Web and Mobile Developer
-  - <a href="https://www.mongodb.com/mern-stack">React MERN Stack</a>
-  - <a href="https://reactnative.dev/">React Native</a>
-- <a href="https://www.arduino.cc/en/hardware">Microcontroller Enthusiast</a>
-- AI ML Enthusiast
-- <a href="https://www.robofest.net/index.php/prior-robofests/prior-years-roboarts">2017 Robofest GRAF World Champion + Winner of the People's Choice Award</a>
+Currently working on medical imaging technologies for ultrasonic image segmentation.
+
+### Education
+
+1st Class Honours BSc Computer Science student at <a href="https://www.kcl.ac.uk/">King's College London</a>
+
+### Hobbies, Interests, and Achievements
+
+-   AI-powered Medical Imaging
+-   Reinforcement Learning Hobbist
+-   Self-taught Web and Mobile Developer
+    -   <a href="https://www.mongodb.com/mern-stack">React MERN Stack</a>
+    -   <a href="https://reactnative.dev/">React Native</a>
+-   <a href="https://www.arduino.cc/en/hardware">Microcontroller Enthusiast</a>
+-   <a href="https://www.robofest.net/index.php/prior-robofests/prior-years-roboarts">2017 Robofest GRAF World Champion + Winner of the People's Choice Award</a>
 
 ### **GitHub Stats**
 

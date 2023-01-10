@@ -34,7 +34,7 @@
 
 ## **About Me**
 
-Hi, I'm <a href="http://lochungtin.github.io/site">Timothy Lo</a>, a research masters stduent studying AI and ML at <a href="http://imperial.ac.uk/">Imperial College London</a>.
+Hi, I'm <a href="https://portfolio-lochungtin.vercel.app/">Timothy Lo</a>, a research masters stduent studying AI and ML at <a href="http://imperial.ac.uk/">Imperial College London</a>.
 
 Currently working on medical imaging technologies for ultrasonic image segmentation.
 

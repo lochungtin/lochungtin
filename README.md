@@ -34,13 +34,15 @@
 
 ## **About Me**
 
-Hi, I'm <a href="https://portfolio-lochungtin.vercel.app/">Timothy Lo</a>, a research masters stduent studying AI and ML at <a href="http://imperial.ac.uk/">Imperial College London</a>.
+Hi, I'm <a href="https://portfolio-lochungtin.vercel.app/">Timothy Lo</a>, a PhD research stduent studying AI and ML at <a href="https://www.ucl.ac.uk/">University College London</a>.
 
 Currently working on medical imaging technologies for ultrasonic image segmentation.
 
 ### Education
 
-1st Class Honours BSc Computer Science student at <a href="https://www.kcl.ac.uk/">King's College London</a>
+Distinction: MRes AI and ML at <a href="https:imperial.ac.uk/">Imperial College London</a>
+
+1st Class Honours: BSc Computer Science student at <a href="https://www.kcl.ac.uk/">King's College London</a>
 
 ### Hobbies, Interests, and Achievements
 

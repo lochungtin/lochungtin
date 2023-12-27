@@ -1,37 +1,5 @@
 # **Hey, welcome to my Github page!**
 
-<p align="center">
- <a href="mailto:lochuntin@gmail.com">
-  <img align="center" width="30" src="icons/social/gmail.svg"/>
- </a>
- <img align="center" width="10" src="icons/transparent_block.svg">
- <a href="https://www.linkedin.com/in/timothy-lo-chung-tin/">
-  <img align="center" width="30" src="icons/social/linkedin.svg"/>
- </a>
- <img align="center" width="10" src="icons/transparent_block.svg">
- <a href="https://www.instagram.com/lochungtin/">
-  <img align="center" width="30" src="icons/social/npm.svg"/>
- </a>
- <img align="center" width="10" src="icons/transparent_block.svg">
- <a href="https://www.instagram.com/lochungtin/">
-  <img align="center" width="130" src="icons/logo_full_c.svg"/>
- </a>
- <img align="center" width="10" src="icons/transparent_block.svg">
- <a href="https://www.instagram.com/lochungtin/">
- <img align="center" width="30" src="icons/social/instagram.svg"/>
- </a>
- <img align="center" width="10" src="icons/transparent_block.svg">
- <a href="https://discordapp.com/users/155275561256747008">
- <img align="center" width="30" src="icons/social/discord.svg"/>
- </a>
- <img align="center" width="10" src="icons/transparent_block.svg">
-  <a href="https://www.instagram.com/lochungtin/">
-  <img align="center" width="30" src="icons/social/twitter.svg"/>
- </a>
- <img align="center" width="10" src="icons/transparent_block.svg">
-</p>
-</br>
-
 ## **About Me**
 
 Hi, I'm <a href="https://portfolio-lochungtin.vercel.app/">Timothy Lo</a>, a PhD research stduent studying AI and ML at <a href="https://www.ucl.ac.uk/">University College London</a>.

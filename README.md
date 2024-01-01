@@ -1,7 +1,5 @@
 <p align="center">
-
-<img align="center" height="100" src="./logo.svg" />
-
+  <img align="center" height="100" src="./logo.svg" />
 </p>
 
 # **Hey, welcome to my Github page!**
@@ -30,9 +28,11 @@ Distinction: MRes AI and ML at [Imperial College London](https://imperial.ac.uk/
 
 ## **GitHub Stats**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=lochungtin&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochungtin&theme=tokyonight&layout=compact&langs_count=8" />
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=lochungtin&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="top" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochungtin&theme=tokyonight&layout=compact&langs_count=8" />
+  </a>
+</p>

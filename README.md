@@ -6,7 +6,7 @@
 
 ## **About Me**
 
-Hi, I'm [Timothy Lo](https://lotimoth.com), a PhD research stduent studying AI and ML at [University College London](https://ucl.ac.uk/).
+Hi, I'm [Timothy Lo](https://lotimothy.com), a PhD research stduent studying AI and ML at [University College London](https://ucl.ac.uk/).
 
 Currently working on medical imaging technologies for ultrasonic image segmentation.
 
